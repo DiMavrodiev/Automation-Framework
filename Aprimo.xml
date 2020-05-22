@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Aprimo">
+    <listeners>
+        <listener class-name="com.automationframework.core.listeners.TestListener"/>
+    </listeners>
+    <test name="SmokeTest">
+        <parameter name="browserName" value="chrome"/>
+        <classes>
+            <class name="testng.aprimo.AprimoSmoke"/>
+        </classes>
+    </test>
+
+</suite>
