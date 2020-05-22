@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8570bd4a-979f-4a7e-862c-9495f61bd472" name="Default" comment="Added How to run the project with CodeShip" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/automationFramework$_Users_dimitarmavrodiev_Documents_Projects_Automation_Framework_Aprimo_xml.ic" NAME="$PROJECT_DIR$/Aprimo.xml Coverage Results" MODIFIED="1550012102986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/automationFramework$AprimoSmoke.ic" NAME="AprimoSmoke Coverage Results" MODIFIED="1546468890258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testng.aprimo.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="automationFramework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1564">
+              <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/url/UrlAndTitleLookup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Alert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Button.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/CheckBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/browser/BrowserOptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/browser/ChromeBrowserOptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>refres</find>
+      <find>url</find>
+      <find>Urlis</find>
+      <find>Driver.getIn</find>
+      <find>Driver</find>
+      <find>getUrl</find>
+      <find>sele</find>
+      <find>capabi</find>
+      <find>slf</find>
+      <find>excl</find>
+      <find>exc</find>
+      <find>testng</find>
+      <find>Coordi</find>
+      <find>getDr</find>
+      <find />
+      <find>Stream</find>
+      <find>allure</find>
+      <find>back</find>
+      <find>getDriver</find>
+      <find>f</find>
+      <find>wrappet</find>
+      <find>list</find>
+      <find>starts</find>
+      <find>jet</find>
+      <find>display</find>
+      <find>enter</find>
+      <find>contains</find>
+      <find>alert</find>
+      <find>wait</find>
+      <find>isVisible</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/element/validator/NullShould.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/interfaces/Actions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/internal/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/interfaces/Interactions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/exceptions/WrappedActionException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/element/BaseElement.java" />
+        <option value="$PROJECT_DIR$/ogs.out" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/element/validator/VisibleShould.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/driver/DriverHolder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testng/aprimo/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/SettingsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/internal/Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/utils/TestUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/element/ElementAbsent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pageobject/aprimo/smoke/Plan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pageobject/aprimo/smoke/Components.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pageobject/aprimo/smoke/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pageobject/aprimo/smoke/Idea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pageobject/aprimo/smoke/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/internal/Interactions1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/internal/Interaction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/conditions/ElementExpectedConditions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/exceptions/AlertExeption.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/internal/Alert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/api/Report.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/api/conditions/FirstFound.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/api/settings/SettingsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/browsermobproxy/PerformanceProxyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/utils/ExecutionUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/httpstatus/HttpStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/api/interfaces/Conditions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/conditions/FirstFound.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/conditions/ElementExpectedConditions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/element/find/VisibleElementLookup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/internal/Element1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Calendar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Collaboration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/assertion/CustomAssertion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Components.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Idea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/internal/Element.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Plan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Login.java" />
+        <option value="$PROJECT_DIR$/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Aprimo.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testng/aprimo/AprimoSmoke.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/aprimo.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automationframework/core/url/UrlAndTitleLookup.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="testing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automationframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automationframework" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automationframework" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automationframework" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="log&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/pageobject/aprimo/smoke/Login.java&#10;sh&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/element/validator/VisibleShould.java&#10;url&#9;PSI&#9;JAVA://com.automationframework.core.url.UrlAndTitleLookup&#10;first&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/conditions/FirstFound.java&#10;js&#9;PSI&#9;JAVA://com.automationframework.core.actions.JsActions&#10;ElementEx&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/conditions/ElementExpectedConditions.java&#10;baseE&#9;PSI&#9;JAVA://com.automationframework.core.element.BaseElement&#10;exp&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/conditions/ElementExpectedConditions.java&#10;aprim&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/test/java/testng/aprimo/AprimoSmoke.java&#10;plan&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/pageobject/aprimo/smoke/Plan.java&#10;pla&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/pageobject/aprimo/smoke/Plan.java&#10;inte&#9;PSI&#9;JAVA://com.automationframework.Interaction&#10;dragand&#9;PSI&#9;JAVA://com.automationframework.core.api.actions.JsActions#dragAndDrop&#10;idea&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/pageobject/aprimo/smoke/Idea.java&#10;inter&#9;PSI&#9;JAVA://com.automationframework.core.api.internal.Interactions1&#10;logi&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/pageobject/aprimo/smoke/Login.java&#10;firs&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/conditions/FirstFound.java&#10;absent&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/element/ElementAbsent.java&#10;elementEx&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/conditions/ElementExpectedConditions.java&#10;beabsent&#9;PSI&#9;JAVA://com.automationframework.core.api.interfaces.ElementShould#beAbsent&#10;abse&#9;PSI&#9;JAVA://com.automationframework.core.api.element.ElementAbsent&#10;screenshot&#9;PSI&#9;JAVA://org.openqa.selenium.TakesScreenshot&#10;screensh&#9;PSI&#9;JAVA://ru.yandex.qatools.ashot.Screenshot&#10;file&#9;PSI&#9;JAVA://com.automationframework.core.generator.data.AssetDescriptor#fileName&#10;listsh&#9;PSI&#9;JAVA://com.automationframework.core.api.interfaces.ListShould&#10;list&#9;PSI&#9;JAVA://com.automationframework.core.api.internal.Dropdown#listContainsText&#10;testu&#9;PSI&#9;JAVA://com.automationframework.core.api.utils.TestUtils&#10;pom&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/pom.xml&#10;element&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/conditions/ElementExpectedConditions.java&#10;textf&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/internal/TextField.java&#10;ide&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/pageobject/aprimo/smoke/Idea.java&#10;but&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/internal/Button.java&#10;visi&#9;PSI&#9;JAVA://com.automationframework.core.api.element.VisibleElement&#10;base&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/element/BaseElement.java&#10;asser&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/CustomAssertion.java&#10;page&#9;PSI&#9;JAVA://com.automationframework.core.api.internal.Page&#10;elementData&#9;PSI&#9;JAVA://com.automationframework.core.ElementData&#10;repor&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/Report.java&#10;search&#9;PSI&#9;JAVA://com.automationframework.core.context.SearchStrategy&#10;DriverHo&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/driver/DriverHolder.java&#10;My&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/MyLogger.java&#10;driver&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/driver/Driver.java&#10;Driver&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/driver/DriverFactory.java&#10;io.al&#9;FILE&#9;jar:///Users/dimitarmavrodiev/.m2/repository/io/qameta/allure/allure2-model-pojo/1.0-BETA6/allure2-model-pojo-1.0-BETA6.jar!/META-INF/maven/io.qameta.allure&#10;aprimo&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/test/java/testng/aprimo/AprimoSmoke.java&#10;Settings&#9;PSI&#9;JAVA://com.automationframework.core.api.SettingsConfig&#10;browse&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/browser/BrowserOptions.java&#10;login&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/pageobject/aprimo/smoke/Login.java&#10;drivers&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/src/main/java/com/automationframework/core/api/interfaces/Drivers.java&#10;apri&#9;FILE&#9;file:///Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590159306360" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.automationframework.utils.PageResult" />
+      <recent name="com.automationframework.utils.Image" />
+      <recent name="com.automationframework.utils.Scroll" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.automationframework" />
+      <recent name="com.automationframework.core" />
+      <recent name="com.automationframework.api" />
+      <recent name="com.automationframework.core.api.element" />
+      <recent name="com.automationframework.core.api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/pls" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.automationframework.utils.core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/automationframework/utils/data" />
+      <recent name="$PROJECT_DIR$/src/main/resources/framework.properties" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.AprimoSmoke">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadPropertiesFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="properties.ReadPropertiesFile" />
+      <module name="automationFramework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automationframework.utils.core.properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AprimoSmoke" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testng.aprimo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testng.aprimo" />
+      <option name="MAIN_CLASS_NAME" value="testng.aprimo.AprimoSmoke" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlsSmoke" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationFramework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testng.pls.PlsSmoke" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="TestNG" nameIsGenerated="true">
+      <module name="automationFramework" />
+      <option name="SUITE_NAME" value="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Aprimo.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReadPropertiesFile" />
+      <item itemvalue="TestNG.Test" />
+      <item itemvalue="TestNG./Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Test.xml" />
+      <item itemvalue="TestNG.PlsSmoke" />
+      <item itemvalue="TestNG.AprimoSmoke" />
+      <item itemvalue="TestNG./Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AprimoSmoke" />
+        <item itemvalue="TestNG./Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" />
+        <item itemvalue="TestNG.PlsSmoke" />
+        <item itemvalue="Application.ReadPropertiesFile" />
+        <item itemvalue="TestNG./Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Test.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8570bd4a-979f-4a7e-862c-9495f61bd472" name="Default" comment="" />
+      <created>1519854278020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519854278020</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1521582193553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521582193553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding property file to store all elements' location&#10;Adding element base for all elements&#10;Adding a timeout for a specific element&#10;Adding page result to verify the page title&#10;Adding a class tha can read any property file">
+      <created>1522699687391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522699687391</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change headless chrome to true&#10;Remove comments from locator and selector">
+      <created>1522781661237</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522781661237</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change headless chrome to true&#10;Remove comments from locator and selector">
+      <created>1522781743591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522781743591</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change headless chrome to true&#10;Remove comments from locator and selector">
+      <created>1522781841404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522781841404</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created framework core&#10;Finished PLS AUTO test creation">
+      <created>1525813067560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525813067561</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created framework core&#10;Finished PLS AUTO test creation">
+      <created>1525813119328</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525813119328</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Image verification change">
+      <created>1525874607001</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1525874607001</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Firefox browser changed from headless to regular">
+      <created>1525874718649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1525874718649</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Firefox browser changed from headless to regular">
+      <created>1525875490198</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1525875490198</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added slf4j to POM">
+      <created>1525876150051</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1525876150051</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added wait for the first thumbnail to be visible&#10;Added wait for the cars/dedail/ to be visible">
+      <created>1525883480421</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1525883480421</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed wait for URL to contain cars/details/ before validation">
+      <created>1525883657987</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1525883657987</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed the wait for Cars Detail page">
+      <created>1525884223022</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1525884223022</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed the wait for Cars Detail page">
+      <created>1525884265039</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1525884265039</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added 20 sec timeout for for Google Maps page&#10;Created an Interaction class with Actions methods">
+      <created>1525896759313</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1525896759313</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added 1 second sleep to checkNewTabTittle is before it gets the title">
+      <created>1525898257563</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1525898257563</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Created separate package to test aprimo&#10;Renamed test ot SmokeTest">
+      <created>1525900255097</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1525900255097</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Created setDriver method to initialize the Driver&#10;Created refresh method that refreshes the whole page&#10;Created ChromeProfile and FirefoxProfile methods that can accept JSON file with different profiles&#10;Refactored the code&#10;Added an wait for the Phone number to be visible&#10;Added a refresh page if less than 2 images are displayed after checking the Make &amp; Model&#10;Changed TitleIs to TitleContains for Google Maps">
+      <created>1526313847300</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1526313847300</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Changed Firefox headless to false &#10;Added wait for the first thumbnail to be visible before checking all thumbnails">
+      <created>1526314250005</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1526314250005</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Create JavaScriptExecution class">
+      <created>1526330607514</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1526330607515</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Comment Make &amp; Model list">
+      <created>1526336928375</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1526336928375</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added expected URL for MapPhones test&#10;Added wait for phone numbers to be displayed">
+      <created>1526350418045</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1526350418045</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Wait changed to 15 seconds">
+      <created>1526350561274</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1526350561274</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Remove Page Title validation for MapPhone">
+      <created>1526351479390</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1526351479390</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Commented the check if a fifth thumbnail is displayed">
+      <created>1526398638132</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1526398638132</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added BrowserMobProxy for performance testing&#10;Added ElementNotVisibleException and ElementNotInteractableException to Timeout&#10;Remove parameters from validateImagePresent method &#10;Catch all exceptions &#10;Check for broken links on all pages but Detail Car&#10;Added a Timeout for for the phone button on Landing page">
+      <created>1526926097804</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1526926097804</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added logs folder">
+      <created>1526927855489</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1526927855489</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Replaced ITestListener with TestListenerAdapter">
+      <created>1526938249042</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1526938249042</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added all Utility classes&#10;Base is abstract &#10;Added Driver Config">
+      <created>1528317540881</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1528317540882</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Major refactoring of the framework. &#10;Adding multiple layers to make it more flexible. &#10;Adding internal random generator.">
+      <created>1545260503739</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1545260503739</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Major refactoring of the framework. &#10;Adding multiple layers to make it more flexible. &#10;Adding internal random generator.">
+      <created>1545318483632</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1545318483632</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added driver factory&#10;Added xml parser that gets the browser type if running on local machine">
+      <created>1547744111275</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1547744111276</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added Interaction class &#10;Removed Frame class">
+      <created>1548708495824</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1548708495824</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added Alert Class&#10;Added Alert Exceptions">
+      <created>1549999835492</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1549999835492</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Refactored and removed the legacy code from AutomationFramework v1">
+      <created>1550097535724</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1550097535724</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added ReadMe.txt file">
+      <created>1550171143030</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1550171143030</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added How to run the project with CodeShip">
+      <created>1550684396811</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1550684396811</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added How to run the project with CodeShip">
+      <created>1551375939428</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1551375939428</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added How to run the project with CodeShip">
+      <created>1590159097421</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1590159097421</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_dimitarmavrodiev_Documents_Projects_Automation_Framework_Aprimo_xml - 2019.02.12 at 16h 52m 05s.xml">
+      <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_dimitarmavrodiev_Documents_Projects_Automation_Framework_Aprimo_xml - 2019.02.12 at 16h 52m 17s.xml">
+      <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_dimitarmavrodiev_Documents_Projects_Automation_Framework_Aprimo_xml - 2019.02.12 at 16h 54m 17s.xml">
+      <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_dimitarmavrodiev_Documents_Projects_Automation_Framework_Aprimo_xml - 2019.02.12 at 16h 55m 01s.xml">
+      <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_dimitarmavrodiev_Documents_Projects_Automation_Framework_Aprimo_xml - 2019.02.12 at 16h 55m 05s.xml">
+      <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_dimitarmavrodiev_Documents_Projects_Automation_Framework_Aprimo_xml - 2019.02.12 at 16h 55m 50s.xml">
+      <configuration name="/Users/dimitarmavrodiev/Documents/Projects/Automation Framework/Aprimo.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AprimoSmoke - 2019.02.13 at 10h 15m 51s.xml">
+      <configuration name="AprimoSmoke" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AprimoSmoke - 2019.02.13 at 16h 28m 17s.xml">
+      <configuration name="AprimoSmoke" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AprimoSmoke - 2019.02.21 at 11h 20m 25s.xml">
+      <configuration name="AprimoSmoke" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AprimoSmoke - 2019.02.21 at 11h 21m 31s.xml">
+      <configuration name="AprimoSmoke" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49389002" visible="true" weight="0.28993288" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50610995" side_tool="true" weight="0.1256656" />
+      <window_info id="Structure" order="6" sideWeight="0.50101835" side_tool="true" weight="0.1799787" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25661916" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49714285" weight="0.24949084" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32892057" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.48668796" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48389262" visible="true" weight="0.3696884" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5161074" side_tool="true" visible="true" weight="0.3696884" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48189563" weight="0.24745418" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24920128" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.3290735" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960597" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32960597" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="9" side_tool="true" weight="0.32960597" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed wait for URL to contain cars/details/ before validation" />
+    <MESSAGE value="Fixed the wait for Cars Detail page" />
+    <MESSAGE value="Added 20 sec timeout for for Google Maps page&#10;Created an Interaction class with Actions methods" />
+    <MESSAGE value="Added 1 second sleep to checkNewTabTittle is before it gets the title" />
+    <MESSAGE value="Created separate package to test aprimo&#10;Renamed test ot SmokeTest" />
+    <MESSAGE value="Created setDriver method to stat" />
+    <MESSAGE value="Created setDriver method to initialize the Driver&#10;Created refresh method that refreshes the whole page&#10;Created ChromeProfile and FirefoxProfile methods that can accept JSON file with different profiles&#10;Refactored the code&#10;Added an wait for the Phone number to be visible&#10;Added a refresh page if less than 2 images are displayed after checking the Make &amp; Model&#10;Changed TitleIs to TitleContains for Google Maps" />
+    <MESSAGE value="Changed Firefox headless to false &#10;Added wait for the first thumbnail to be visible before checking all thumbnails" />
+    <MESSAGE value="Create JavaScriptExecution class" />
+    <MESSAGE value="Comment Make &amp; Model list" />
+    <MESSAGE value="Added expected URL for MapPhones test&#10;Added wait for phone numbers to be displayed" />
+    <MESSAGE value="Wait changed to 15 seconds" />
+    <MESSAGE value="Remove Page Title validation for MapPhone" />
+    <MESSAGE value="Commented the check if a fifth thumbnail is displayed" />
+    <MESSAGE value="Added BrowserMobProxy for performance testing&#10;Added ElementNotVisibleException and ElementNotInteractableException to Timeout&#10;Remove parameters from validateImagePresent method &#10;Catch all exceptions &#10;Check for broken links on all pages but Detail Car&#10;Added a Timeout for for the phone button on Landing page" />
+    <MESSAGE value="Added logs folder" />
+    <MESSAGE value="Replaced ITestListener with TestListenerAdapter" />
+    <MESSAGE value="Added all Utility classes&#10;Base is abstract &#10;Added Driver Config" />
+    <MESSAGE value="Major refactoring of the framework. &#10;Adding multiple layers to make it more flexible. &#10;Adding internal random generator." />
+    <MESSAGE value="Added driver factory&#10;Added xml parser that gets the browser type if running on local machine" />
+    <MESSAGE value="Added Interaction class &#10;Removed Frame class" />
+    <MESSAGE value="Added Alert Class&#10;Added Alert Exceptions" />
+    <MESSAGE value="Refactored and removed the legacy code from AutomationFramework v1" />
+    <MESSAGE value="Added ReadMe.txt file" />
+    <MESSAGE value="Added How to run the project with CodeShip" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added How to run the project with CodeShip" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Interaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/Timeout.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/exceptions/UrlException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/element/ElementDisplayed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/element/validator/VisibleShould.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/element/VisibleElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/conditions/FirstFound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="131" column="48" selection-start-line="131" selection-start-column="48" selection-end-line="131" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/WindowTabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/interfaces/Conditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/Element.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Calendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/Base.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/pagefactory/ElementLocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Collaboration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/assertion/CustomAssertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="186" column="46" selection-start-line="186" selection-start-column="46" selection-end-line="186" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/DatePicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/Locators.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Plan.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Filter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Components.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/actions/JsActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Screen Shot 2019-02-13 at 4.58.51 PM.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/chassis.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Idea.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/properties/SystemEnvironmentalProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/TextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/driver/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/driver/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/driver/DriverHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/elementdata/ElementData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/element/locate/ElementLocatable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/element/find/VisibleElementLookup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/pageobject/aprimo/smoke/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/conditions/ElementExpectedConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="662" column="54" lean-forward="true" selection-start-line="662" selection-start-column="54" selection-end-line="662" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5733#5734#0" expanded="true" />
+            <element signature="e#5800#5801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/context/SearchStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/aprimo/AprimoSmoke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aprimo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/aprimo.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/wait/ElementFluentWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="55" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/settings/SettingsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/browser/ChromeBrowserOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/api/browser/BrowserOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/core/url/UrlAndTitleLookup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Alert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automationframework/internal/CheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>automationFramework</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
